@@ -18,10 +18,21 @@ function agregarAmigo(){
     console.log(`Lista de Nombres: ${listaDeNombres}`);
     entrada.value = "";
     actualizaListaAmigos();
+    return;
 
 }
 //Función para botón "sortear amigo"
 function sortearAmigo(){
+    let elementoResultado = document.getElementById('resultado');
+
+    if(listaDeNombres != ""){
+        let indiceRandom = Math.floor(Math.random()*listaDeNombres.length);
+
+        console.log(`indice aletorio: ${indiceRandom}`);
+        elementoResultado.innerHTML = listaDeNombres[indiceRandom];
+
+    }
+
     return;
 }
 
@@ -37,4 +48,5 @@ function actualizaListaAmigos(){
     }
 
     lista.innerHTML = losAmigos;
+    return;
 }
