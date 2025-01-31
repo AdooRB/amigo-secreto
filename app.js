@@ -17,9 +17,24 @@ function agregarAmigo(){
     entrada.value == ""? alert("Por favor, inserte un nombre"): listaDeNombres.push(entrada.value);
     console.log(`Lista de Nombres: ${listaDeNombres}`);
     entrada.value = "";
+    actualizaListaAmigos();
 
 }
 //Función para botón "sortear amigo"
 function sortearAmigo(){
     return;
+}
+
+function actualizaListaAmigos(){
+    let lista = document.querySelector('#listaAmigos');
+    let losAmigos = "";
+    
+    lista.innerHTML = "";
+    
+    for(let index = 0; index < listaDeNombres.length; index++){
+        losAmigos += `<li>${listaDeNombres[index]}<li/>`
+        // console.log(`amigos: ${losAmigos}`);
+    }
+
+    lista.innerHTML = losAmigos;
 }
