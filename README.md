@@ -26,7 +26,7 @@ El objetivo del proyecto consiste en agregar nombres, recopilarlos y seleccionar
 # :open_file_folder: Acceso al proyecto
 - Para interactuar en la página, puede entrar al siguiente link:
     
-    ``
+    https://adoorb.github.io/amigo-secreto/
 
 - Para bajar el proyecto debe ingeresar el siguiente comando:
 
@@ -36,9 +36,8 @@ El objetivo del proyecto consiste en agregar nombres, recopilarlos y seleccionar
 <div style="display:inline-block">
 <a href="https://www.aluracursos.com/"><img src="https://www.aluracursos.com/assets/img/home/alura-logo.1730889068.svg" href="https://www.aluracursos.com/"
 alt="Alura Latam" width="40" height="40" style="float:left" /></a>
-<p style="display:inline-block">
-&nbsp El equipo de Alura Latam proporcionaron la estructura del código HTML y CSS 
-<br>&nbsp para el proyecto.
+<p >
+&nbsp El equipo de Alura Latam proporcionaron la estructura del código HTML y CSS &nbsp para el proyecto.
 </p>
 </div>
 
