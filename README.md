@@ -1,10 +1,18 @@
 
 <h1 align="center">:name_badge:Amigo Secreto:name_badge:</h1>
 
-![Static Badge](https://img.shields.io/badge/Estado-En%20Desarrollo-purple?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Actualizado-Enero%202025-yellow?style=for-the-badge)
+<p align="center">
+<img src="https://img.shields.io/badge/Estado-En%20Desarrollo-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Actualizado-Enero%202025-yellow?style=for-the-badge">
+</p>
 
 # :card_index: Indice
+* [Descripción del Proyecto](#pencil-descripción-del-proyecto)
+* [Funcionalidad del Proyecto](#white_check_mark-funcionalidad-del-proyecto)
+* [Acceso del Proyecto](#open_file_folder-acceso-al-proyecto)
+* [Apoyos y Herramientas](#apoyos-y-herrramientas)
+* [Diagrama de Flujo](#trident-diagrama-de-flujo)
+* [Desarrollador](#hammer-desarrollador-construction_worker)
 
 # :pencil: Descripción del Proyecto
 <p align="justify">
@@ -13,8 +21,16 @@ El proyecto es el 1er Challenge en el programa ONE en Alura Latam para el grupo 
 El objetivo del proyecto consiste en agregar nombres, recopilarlos y seleccionar al azar el nombre de quien será el "amigo secreto".
 
 # :white_check_mark: Funcionalidad del Proyecto
+<img src="/assets/AmigoSecretoSW.gif" title="Gif de funcionalidad">
 
 # :open_file_folder: Acceso al proyecto
+- Para interactuar en la página, puede entrar al siguiente link:
+    
+    ``
+
+- Para bajar el proyecto debe ingeresar el siguiente comando:
+
+     `$ git clone https://github.com/AdooRB/amigo-secreto.git`
 
 # Apoyos y Herrramientas
 
@@ -82,6 +98,7 @@ flowchart TD
 
 ```
 
-
-
 # :hammer: Desarrollador :construction_worker:
+
+|[<img src="https://avatars.githubusercontent.com/u/68716029?s=400&u=0469787aea0aaff6920dc019417972c5471cd8ba&v=4" width=115><br><sub>Aldo Flores</sub>](https://github.com/AdooRB)|
+| :---: |
