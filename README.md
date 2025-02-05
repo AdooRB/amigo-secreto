@@ -21,7 +21,7 @@ El proyecto es el 1er Challenge en el programa ONE en Alura Latam para el grupo 
 El objetivo del proyecto consiste en agregar nombres, recopilarlos y seleccionar al azar el nombre de quien será el "amigo secreto".
 
 # :white_check_mark: Funcionalidad del Proyecto
-<img src="/assets/AmigoSecretoSW.gif" title="Gif de funcionalidad">
+<img src="/assets/AmigoSecretoSW.gif" title="GIF de funcionalidad">
 
 # :open_file_folder: Acceso al proyecto
 - Para interactuar en la página, puede entrar al siguiente link:
@@ -32,10 +32,15 @@ El objetivo del proyecto consiste en agregar nombres, recopilarlos y seleccionar
 
      `$ git clone https://github.com/AdooRB/amigo-secreto.git`
 
-# Apoyos y Herrramientas
-
+# Apoyo
+<div style="display:inline-block">
 <a href="https://www.aluracursos.com/"><img src="https://www.aluracursos.com/assets/img/home/alura-logo.1730889068.svg" href="https://www.aluracursos.com/"
-alt="Alura Latam" width="40" height="40" /></a>
+alt="Alura Latam" width="40" height="40" style="float:left" /></a>
+<p style="display:inline-block">
+&nbsp El equipo de Alura Latam proporcionaron la estructura del código HTML y CSS 
+<br>&nbsp para el proyecto.
+</p>
+</div>
 
 # :trident: Diagrama de Flujo
 
