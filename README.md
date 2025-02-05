@@ -32,7 +32,7 @@ El objetivo del proyecto consiste en agregar nombres, recopilarlos y seleccionar
 
      `$ git clone https://github.com/AdooRB/amigo-secreto.git`
 
-# Apoyo
+# :facepunch: Apoyo
 <div style="display:inline-block">
 <a href="https://www.aluracursos.com/"><img src="https://www.aluracursos.com/assets/img/home/alura-logo.1730889068.svg" href="https://www.aluracursos.com/"
 alt="Alura Latam" width="40" height="40" style="float:left" /></a>
